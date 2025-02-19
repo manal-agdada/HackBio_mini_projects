@@ -36,9 +36,11 @@ HackBio_mini_projects/
 ## Language Used
 - R
 
-## Libraries Used
-- TCGAbiolinks
-- SummarizedExperiment
-- gplot2
-- ggplot2
-- biomaRt
+### Required Libraries  
+- **Bioconductor Packages**:  
+  - `TCGAbiolinks`  
+  - `SummarizedExperiment`  
+  - `biomaRt`  
+- **CRAN Packages**:  
+  - `gplot`
+  - `ggplot2`
