@@ -5,7 +5,7 @@ This repository contains three projects completed as part of three different Hac
 ## Repository Structure
 The repository is organized into three directories, each corresponding to a specific HackBio course:
 ```
-HackBio_Projects/
+HackBio_mini_projects/
 │-- project_1/  # Extreme Plotting in R
 │-- project_2/  # Biomarker Discovery for Early Cancer Detection
 │-- project_3/  # Classifying Cancer Subtypes Using Methylation Data
