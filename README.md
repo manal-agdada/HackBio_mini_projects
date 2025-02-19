@@ -38,5 +38,7 @@ HackBio_mini_projects/
 
 ## Libraries Used
 - TCGAbiolinks
+- SummarizedExperiment
+- gplot2
 - ggplot2
-- 
+- biomaRt
