@@ -15,16 +15,23 @@ HackBio_mini_projects/
 ## Projects Overview
 
 ### Project 1: [Extreme Plotting in R] 
+
 [project_1](https://github.com/manal-agdada/HackBio_mini_projects/tree/main/project_1)
+
 **Description:** Use base R to generate plots from randomly generated data.
 
 ### Project 2: [Biomarker Discovery for Early Cancer Detection]
-**Description:** Identify potential biomarkers for early detection of pancreatic cancer by analyzing TCGA differential gene expression data. This project focuses on finding genes that are significantly expressed in early-stage pancreatic cancers compared to normal tissues.
+
 [project_2](https://github.com/manal-agdada/HackBio_mini_projects/tree/main/project_2)
 
+**Description:** Identify potential biomarkers for early detection of pancreatic cancer by analyzing TCGA differential gene expression data. This project focuses on finding genes that are significantly expressed in early-stage pancreatic cancers compared to normal tissues.
+
 ### Project 3: [Classifying Cancer Subtypes Using Methylation Data]
-**Description:** Using methylation data from breast cancer TCGA data to classify cancer subtypes with the k-nearest neighbors (kNN) algorithm.
+
 [project_3](https://github.com/manal-agdada/HackBio_mini_projects/tree/main/project_3)
+
+**Description:** Using methylation data from breast cancer TCGA data to classify cancer subtypes with the k-nearest neighbors (kNN) algorithm.
+
 
 ## Language Used
 - R
