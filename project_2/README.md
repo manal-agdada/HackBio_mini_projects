@@ -18,4 +18,7 @@ This project aims at identifying potential biomarkers for early detection of pan
 
 ## Libraries
 - TCGAbiolinks
-- ggplot2 
+- SummarizedExperiment
+- gplot2
+- ggplot2
+- biomaRt
