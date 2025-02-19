@@ -44,3 +44,4 @@ HackBio_mini_projects/
 - **CRAN Packages**:  
   - `gplot`
   - `ggplot2`
+  - `dplyr`
