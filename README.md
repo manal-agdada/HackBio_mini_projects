@@ -23,6 +23,8 @@ HackBio_mini_projects/
 ### Project 3: [Classifying Cancer Subtypes Using Methylation Data]
 **Description:** Using methylation data from breast cancer TCGA data to classify cancer subtypes with the k-nearest neighbors (kNN) algorithm.
 
-## Technologies Used
+## Language Used
 - R
-- Data visualization libraries (ggplot2)
+
+## Libraries Used
+- 
