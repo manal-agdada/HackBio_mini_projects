@@ -16,9 +16,11 @@ This project aims at identifying potential biomarkers for early detection of pan
 ## Language
 - R
 
-## Libraries
-- TCGAbiolinks
-- SummarizedExperiment
-- gplot2
-- ggplot2
-- biomaRt
+## Required Libraries  
+- **Bioconductor Packages**:  
+  - `TCGAbiolinks`  
+  - `SummarizedExperiment`  
+  - `biomaRt`  
+- **CRAN Packages**:  
+  - `gplot`
+  - `ggplot2`
