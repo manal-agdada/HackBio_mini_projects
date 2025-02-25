@@ -35,6 +35,6 @@ HackBio_mini_projects/
   - `SummarizedExperiment`  
   - `biomaRt`  
 - **CRAN Packages**:  
-  - `gplot`
+  - `gplots`
   - `ggplot2`
   - `dplyr`
