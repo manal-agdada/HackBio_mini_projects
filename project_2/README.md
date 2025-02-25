@@ -69,12 +69,13 @@ This project aims to identify potential biomarkers for early detection of pancre
 ## Example Outputs
 
 - Heatmap visualization of gene expression differences:
-  ![Heatmap](https://github.com/manal-agdada/HackBio_mini_projects/blob/main/project_2/Figures/project_2_heatmap.pdf)
+[project_2_heatmap.pdf](https://github.com/user-attachments/files/18963578/project_2_heatmap.pdf)
 
 - Volcano plot showing significant genes:
-  ![Volcano Plot](https://github.com/manal-agdada/HackBio_mini_projects/blob/main/project_2/Figures/project_2_volcanoplot.pdf)
+  [project_2_volcanoplot.pdf](https://github.com/user-attachments/files/18963581/project_2_volcanoplot.pdf)
 
 ## Conclusion
+
 
 This analysis has identified key genes that are differentially expressed in early-stage pancreatic cancer compared to normal tissues, which could serve as potential biomarkers for early detection. Further investigation into the biological pathways these genes are involved in may offer new insights into pancreatic cancer biology and potential therapeutic targets.
 
