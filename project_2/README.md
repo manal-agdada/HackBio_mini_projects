@@ -70,11 +70,11 @@ This project aims to identify potential biomarkers for early detection of pancre
 
 - Heatmap visualization of gene expression differences:
 
-   ![heatmap](Figures/project_2_heatmap.pdf)
+   ![heatmap](https://github.com/manal-agdada/HackBio_mini_projects/blob/main/project_2/Figures/project_2_heatmap.png)
 
 - Volcano plot showing significant genes:
 
-   ![volcanoplot](Figures/project_2_volcanoplot.pdf)
+   ![volcanoplot](https://github.com/manal-agdada/HackBio_mini_projects/blob/main/project_2/Figures/project_2_volcanoplot.png)
 
 ## Conclusion
 
